@@ -1,9 +1,9 @@
 ## Playground (and dump) of stuff I made, modified, researched, or found for the Flipper Zero.
-**Looking for Infrared (IR) codes? Head over to [the IRDB](https://github.com/UberGuidoZ/Flipper-IRDB)! Just want to download part of any repo? [Try over here](https://uberguidoz.github.io/DownGit/)!**
+**Looking for Infrared (IR) codes? Head over to [the IRDB](https://mccdxxx.github.io)! Just want to download part of any repo? [Try over here](https://mccdxxx.github.io)!**
 
-## If you're new to github in general, check out [this great guide](https://github.com/wrenchathome/flipperfiles/blob/main/_Guides/How2Flipper.pdf) from Wr3nch!
+## If you're new to github in general, check out [this great guide](https://mccdxxx.github.io) from Wr3nch!
 
-Other great spots for help can be found at the [Official Discord](https://discord.com/invite/flipper), [Official Docs](https://docs.flipperzero.one/), [Awesome Flipper](https://github.com/djsime1/awesome-flipperzero), or the [Official Forum](https://forum.flipperzero.one/).
+Other great spots for help can be found at the [Official Discord](https://mccdxxx.github.io), [Official Docs](https://mccdxxx.github.io), [Awesome Flipper](https://mccdxxx.github.io), or the [Official Forum](https://mccdxxx.github.io).
 
 -----
 
@@ -11,10 +11,10 @@ Other great spots for help can be found at the [Official Discord](https://discor
 
 Nothing is ever expected for the hoarding of digital files, creations I have made, or the people I may have helped.
 
-## Ordering from Lab401? [USE THIS LINK FOR 5% OFF!](https://lab401.com/r?id=vsmgoc) (Or code `UberGuidoZ` at checkout.)
+## Ordering from Lab401? [USE THIS LINK FOR 5% OFF!](https://mccdxxx.github.io) (Or code `UberGuidoZ` at checkout.)
 
 I've had so many asking for me to add this.<br>
-![Flipper_Blush](https://user-images.githubusercontent.com/57457139/183561666-4424a3cc-679b-4016-a368-24f7e7ad0a88.jpg) ![Flipper_Love](https://user-images.githubusercontent.com/57457139/183561692-381d37bd-264f-4c88-8877-e58d60d9be6e.jpg)
+![Flipper_Blush](https://mccdxxx.github.io) ![Flipper_Love](https://mccdxxx.github.io)
 
 **BTC**: `3AWgaL3FxquakP15ZVDxr8q8xVTc5Q75dS`<br>
 **BCH**: `17nWCvf2YPMZ3F3H1seX8T149Z9E3BMKXk`<br>
@@ -23,7 +23,7 @@ I've had so many asking for me to add this.<br>
 **PayPal**: `uberguidoz@gmail.com`
 
 So, here it is. All donations of *any* size are humbly appreciated.<br>
-![Flipper_Clap](https://user-images.githubusercontent.com/57457139/183561789-2e853ede-8ef7-41e8-a67c-716225177e5d.jpg) ![Flipper_OMG](https://user-images.githubusercontent.com/57457139/183561787-e21bdc1e-b316-4e67-b327-5129503d0313.jpg)
+![Flipper_Clap](https://mccdxxx.github.io) ![Flipper_OMG](https://mccdxxx.github.io)
 
 Donations will be used for hardware (and maybe caffeine) to further testing!<br>
-![UberGuidoZ](https://cdn.discordapp.com/emojis/1000632669622767686.gif)
+![UberGuidoZ](https://mccdxxx.github.io)
